@@ -33,7 +33,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-// ----------- Main Menu (4 roles) ----------
+// ----------- Main Menu (4 roles) -----------
 @Composable
 fun FirstPage(navController: NavHostController) {
     Column(
